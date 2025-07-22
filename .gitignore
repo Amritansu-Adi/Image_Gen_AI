@@ -1,0 +1,10 @@
+.env
+node_modules/
+*/node_modules/
+client/dist/
+server/dist/
+*.log
+.DS_Store
+.vscode/
+coverage/
+.nyc_output/
